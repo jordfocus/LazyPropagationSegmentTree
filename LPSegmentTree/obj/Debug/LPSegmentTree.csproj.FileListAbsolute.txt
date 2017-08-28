@@ -4,3 +4,6 @@ c:\users\jordan atanasovski\documents\visual studio 2015\Projects\LPSegmentTree\
 c:\users\jordan atanasovski\documents\visual studio 2015\Projects\LPSegmentTree\LPSegmentTree\obj\Debug\LPSegmentTree.csprojResolveAssemblyReference.cache
 c:\users\jordan atanasovski\documents\visual studio 2015\Projects\LPSegmentTree\LPSegmentTree\obj\Debug\LPSegmentTree.exe
 c:\users\jordan atanasovski\documents\visual studio 2015\Projects\LPSegmentTree\LPSegmentTree\obj\Debug\LPSegmentTree.pdb
+D:\Projects\GitHub\LPSegmentTree\LazyPropagationSegmentTree\LPSegmentTree\bin\Debug\LPSegmentTree.exe.config
+D:\Projects\GitHub\LPSegmentTree\LazyPropagationSegmentTree\LPSegmentTree\obj\Debug\LPSegmentTree.exe
+D:\Projects\GitHub\LPSegmentTree\LazyPropagationSegmentTree\LPSegmentTree\obj\Debug\LPSegmentTree.pdb
