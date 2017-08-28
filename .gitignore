@@ -1,7 +1,2 @@
-*.txt
-LPSegmentTree/obj/
-*.cache
-LPSegmentTree/obj/
 LPSegmentTree/bin/
-*.cache
-LPSegmentTree/obj/Debug/LPSegmentTree.csproj.FileListAbsolute.txt
+LPSegmentTree/obj/
